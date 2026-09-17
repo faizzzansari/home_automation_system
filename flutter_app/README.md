@@ -1,16 +1,30 @@
-# smart_home_app
+# 🏠 Smart Home App
 
-A new Flutter project.
+A Flutter-based mobile application developed as part of an IoT Home Automation System. The application provides a mobile interface for interacting with and controlling connected home automation devices through the ESP32-based hardware system.
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+The Smart Home App is the mobile component of the Home Automation System. It is developed using Flutter and Dart and is designed to provide users with an easy-to-use interface for controlling connected devices.
 
-A few resources to get you started if this is your first Flutter project:
+The application works together with the ESP32 hardware component to provide smart home control functionality.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Android
+- ESP32
+- IoT
+- Mobile Application Development
+
+## 📂 Project Structure
+
+```text
+smart_home_app/
+│
+├── android/
+├── ios/
+├── lib/
+├── test/
+├── pubspec.yaml
+└── README.md
